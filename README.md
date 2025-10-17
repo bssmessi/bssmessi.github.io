@@ -1,3 +1,3 @@
-/```js
+```js
 console.log("Hello world");
-/```
+```
