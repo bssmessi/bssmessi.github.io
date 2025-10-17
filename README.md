@@ -1,1 +1,1 @@
-# bssmessi.github.io
+console.log("Hello world");
