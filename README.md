@@ -1,3 +1,3 @@
 ```js
-console.log("傻逼陶一鸣");
+console.log("Hello world!");
 ```
